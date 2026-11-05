@@ -1,14 +1,15 @@
 # ManageBac Reimagined
 
 A userscript that reshapes ManageBac around the three places actually used
-day to day, in three looks:
+day to day, in three looks. Built on [ManageBac Reimagined](https://github.com/Arstoienn/ManageBac-Reimagined)
+by Arstoien.
 
 | Folder | |
 |---|---|
 | `Apple/` | Apple's design language in **Liquid Glass**, with a Look setting to switch between Classic (the flat apple.com look), Clear, Tinted and Solid |
 | `Liquid Glass/` | a glass-only build (no Classic) from 1 Oct 2026; Apple is the one kept up to date |
 | `Original/` | the original monochrome look |
-| `md/` | this README and the Liquid Glass research report |
+| `md/` | the Liquid Glass research report |
 
 Switch on one at a time. If two are on, the first to load runs and the
 others stand down.
